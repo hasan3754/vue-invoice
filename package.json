@@ -9,6 +9,8 @@
   },
   "dependencies": {
     "core-js": "^3.8.3",
+    "firebase": "^9.8.3",
+    "uid": "^2.0.0",
     "vue": "^3.2.13",
     "vue-router": "^4.0.15",
     "vuex": "^4.0.2"
